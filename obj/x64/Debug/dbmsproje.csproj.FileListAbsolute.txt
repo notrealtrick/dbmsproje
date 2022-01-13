@@ -1,0 +1,14 @@
+C:\Users\melih\source\repos\dbmsproje\bin\x64\Debug\dbmsproje.exe.config
+C:\Users\melih\source\repos\dbmsproje\bin\x64\Debug\dbmsproje.exe
+C:\Users\melih\source\repos\dbmsproje\bin\x64\Debug\dbmsproje.pdb
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.AdminPaneli.resources
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.Giris.resources
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.kullaniciSayfasi.resources
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.Properties.Resources.resources
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.uyeGuncelle.resources
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.yeniUye.resources
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.exe
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.pdb
+C:\Users\melih\source\repos\dbmsproje\obj\x64\Debug\dbmsproje.csprojAssemblyReference.cache
